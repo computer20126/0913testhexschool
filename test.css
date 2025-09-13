@@ -1,0 +1,44 @@
+
+.title{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    padding-bottom: 48px;
+}
+
+h1{
+    font-size: 32px;
+    line-height: 150%;
+}
+
+
+ol,li{
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.pr3{
+    padding-right: 24px;
+}
+
+
+.gray{
+    width: 416px;
+    height: 457.59px;
+    background-color: #cccccc;
+    padding-bottom: 8px;
+}
+
+p{
+    font-size: 16px;
+    line-height: 150%;
+    display: block;
+    width: 400px;
+    padding: 8px;
+}
+
+.second{
+    padding-bottom: 60px;
+}
